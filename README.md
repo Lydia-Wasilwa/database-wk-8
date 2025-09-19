@@ -51,4 +51,6 @@ Cardinality: M:N
 Relationship: Each enrollment can have one grade (assuming one grade per enrollment)
 Cardinality: 1:1 (or 1:N if multiple grades per enrollment are allowed)
 
-#Entity Relationship Diagram
+## Entity Relationship Diagram
+<img width="613" height="495" alt="ERD drawio (3)" src="https://github.com/user-attachments/assets/bf88b258-9eed-4d79-a240-4258e9aaf120" />
+
